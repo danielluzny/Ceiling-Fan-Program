@@ -5,7 +5,7 @@ A simple ceiling fan program created in Java. The program takes in a series of c
 This program was created using JDK version 18.0.1.1 in a Windows 10 environment.
 
 ## Date & Author
-August 3rd, 2022
+August 3rd, 2022  
 Written by Daniel Luzny
 
 ## Building
