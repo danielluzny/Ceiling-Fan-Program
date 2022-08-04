@@ -13,4 +13,4 @@ Written by Daniel Luzny
 - Step 2: Clone the repository from Github to somewhere easily accessible on your PC, such as the Desktop
 - Step 3: Open the terminal/command prompt on your machine (often done by clicking "Search" or "Start" on your Operating System and typing "CMD")
 - Step 4: Within the terminal, navigate to the Ceiling Fan Program folder you just cloned and type "javac Main.java" to compile the program
-- Step 5: Run the program via typing "java Main"
+- Step 5: Run the program via typing "java Main" in the terminal
